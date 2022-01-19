@@ -1,0 +1,10 @@
+/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-568da355044bee89.rmeta: /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/lib.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/abi_digester.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/abi_example.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/hash.rs
+
+/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-568da355044bee89.rlib: /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/lib.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/abi_digester.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/abi_example.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/hash.rs
+
+/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-568da355044bee89.d: /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/lib.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/abi_digester.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/abi_example.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/hash.rs
+
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/lib.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/abi_digester.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/abi_example.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.8.5/src/hash.rs:

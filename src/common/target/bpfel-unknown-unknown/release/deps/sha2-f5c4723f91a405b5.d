@@ -1,0 +1,12 @@
+/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/deps/sha2-f5c4723f91a405b5.rmeta: /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs
+
+/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/deps/libsha2-f5c4723f91a405b5.rlib: /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs
+
+/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/deps/sha2-f5c4723f91a405b5.d: /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs
+
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/lib.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/consts.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha256/soft.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.8/src/sha512/soft.rs:

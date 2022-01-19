@@ -1,0 +1,12 @@
+/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/deps/borsh-6523a9ea4bce0bb0.rmeta: /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/lib.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/mod.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/hint.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema_helpers.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/ser/mod.rs
+
+/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/deps/libborsh-6523a9ea4bce0bb0.rlib: /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/lib.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/mod.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/hint.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema_helpers.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/ser/mod.rs
+
+/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/deps/borsh-6523a9ea4bce0bb0.d: /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/lib.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/mod.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/hint.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema_helpers.rs /home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/ser/mod.rs
+
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/lib.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/mod.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/hint.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema_helpers.rs:
+/home/tim-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/ser/mod.rs:

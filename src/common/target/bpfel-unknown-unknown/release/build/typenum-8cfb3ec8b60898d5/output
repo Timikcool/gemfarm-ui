@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/build/typenum-8cfb3ec8b60898d5/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/c/projects/gemworks/core/target/bpfel-unknown-unknown/release/build/typenum-8cfb3ec8b60898d5/out/op.rs
